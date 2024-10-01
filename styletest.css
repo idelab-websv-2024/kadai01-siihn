@@ -13,3 +13,23 @@ div#test01 {
 .important {
   color: #a00;
 }
+
+.ol{
+  color:aqua
+}
+
+.el{
+  color:greenyellow
+}
+
+table{
+  border:1px solid red;
+}
+
+.last3{
+  font-weight: bold;
+}
+
+.name{
+  text-align: center;
+}
